@@ -13,10 +13,16 @@ Simplistic Mission Analysis Tool for a reusable Lunar Space Tug powered by Elect
 The Mission Analysis Tool outputs were verified by comparing them with results from [7]. Finally, claims made about the benefits of helicons over other EP thrusters (no cathode erosion, can use ISRU propellants, better scaling with power, simpler electronics, lower radio frequencies needed, allowing higher plasma densities) were taken from [4,6].
 
 [1] Thronson, H. et al. Human Exploration Beyond LEO by the End of the Decade: Designs for Long-Duration “Gateway” Habitats. FISO “Gateway” Concepts Study 2010.
+
 [2] Squire, J. P. et al. VASIMR Spaceflight Engine System Mass Study and Scaling with Power. 33rd International Electric Propulsion Conference 2013.
+
 [3] Surampudi, R. et al. Solar Power Technologies for Future Planetary Science Mission. Strategic Missions and Advanced Concepts Office 2017.
+
 [4] Ziemba, T. et al. High Power Helicon Thruster. 41st  Joint Propulsion Conference 2005.
+
 [5] Longmier, B. W. et al. Improved Efficiency and Throttling Range of the VX-200 Magnetoplasma Thruster. Journal of Propulsion and Power 2014, 30, 1.
+
 [6] Ahedo, E.; Navarro-Cavallé, J. Helicon thruster plasma modeling: Two-dimensional fluid-dynamics and propulsive performances. Physics Of Plasmas 2013, 20, 4.
+
 [7] Glover, T. Lunar Cargo Capability with VASIMR Propulsion. Ad Astra Rocket Company Presentation
 
